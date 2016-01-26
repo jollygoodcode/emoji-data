@@ -10,7 +10,7 @@ $ rake export_all_jsons
 
 From [www.unicode.org/Public/emoji/2.0/emoji-data.txt](http://www.unicode.org/Public/emoji/2.0/emoji-data.txt).
 
-## [emoji-data.json](output/emoji-sequences.json)
+## [emoji-sequences.json](output/emoji-sequences.json)
 
 From [www.unicode.org/Public/emoji/2.0/emoji-sequences.txt](http://www.unicode.org/Public/emoji/2.0/emoji-sequences.txt).
 
