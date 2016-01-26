@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{Emoji JSON Data for UTR #51}
   spec.description   = spec.summary
   spec.homepage      = "https://github.com/jollygoodcode/emoji-data"
-  spec.license       = "MIT"
+  spec.license       = "UNLICENSE"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
   spec.bindir        = "exe"

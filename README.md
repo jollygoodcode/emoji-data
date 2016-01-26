@@ -22,6 +22,6 @@ From [www.unicode.org/Public/emoji/2.0/emoji-zwj-sequences.txt](http://www.unico
 
 All of above merged into one json.
 
-## License
+## The UNLICENSE
 
-The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+See [UNLICENSE](/UNLICENSE).
